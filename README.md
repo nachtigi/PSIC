@@ -10,7 +10,7 @@ This tool has been published in [A spreadsheet‐based tool for education of che
 ## Example
 The use of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file Heater.xlsx.
 
-## License Features
+## License
 ![Logo UCT Prague](https://www.vscht.cz/images/0!50/uzel/0000959/logoUCT_basic.png)<br />
 PSIC is being developed at the [Deparment of Computing and Control Engineering](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en).
 
