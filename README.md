@@ -11,10 +11,7 @@ This tool has been published in [A spreadsheet‐based tool for education of che
 The use of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file Heater.xlsx.
 
 ## License
-![Logo UCT Prague](https://www.vscht.cz/images/0!50/uzel/0000959/logoUCT_basic.png)<br />
-PSIC is being developed at the [Deparment of Computing and Control Engineering](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en).
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+PSIC is being developed at the [Deparment of Computing and Control Engineering](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en). This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 ## Contact
 If you need the add-in file with unprotected VBA code, please write an e-mail to @nachtigi.
