@@ -14,7 +14,7 @@ The PSIC add-in requires MS Excel 2007+ for Win, and enabled macros. MS Excel fo
 The use of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file Heater.xlsx.
 
 ## Documentation
-* [User's Guide](PSIC User's Guide.pdf)
+* [User's Guide](logo.png)
 * Nachtigalova I, Finkeova J, Krbcova Z, Souskova H. **A spreadsheet‐based tool for education of chemical process simulation and control fundamentals**. *Comput Appl Eng Educ*. 2020;1–15. https://doi.org/10.1002/cae.22271
 
 ## License
