@@ -6,7 +6,7 @@ PSIC is a easy-to-use and a user-friendly Excel add-in application for both stud
 This tool has been published in the article:<br />Nachtigalova I, Finkeova J, Krbcova Z, Souskova H. **A spreadsheet‐based tool for education of chemical process simulation and control fundamentals**. *Comput Appl Eng Educ*. 2020;1–15. https://doi.org/10.1002/cae.22271.
 
 ## Version
-7.5
+7.5 
 
 ## Example
 The use of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file Heater.xlsx.
