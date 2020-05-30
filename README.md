@@ -1,4 +1,4 @@
-<img src="logo.png" alt="PSIC logo" width="30%"/>
+<img src="logo.png" alt="PSIC logo" width="20%"/>
 
 # Process Simulation and Control (PSIC)
 
