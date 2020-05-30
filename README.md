@@ -10,8 +10,8 @@ PSIC is a easy-to-use and a user-friendly Excel add-in application for both stud
 ## Activation
 The PSIC add-in requires MS Excel 2007+ for Win, and enabled macros. MS Excel for Mac is not supported.
 
-## Example
-The use of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file [heater.xlsx](heater.xlsx).
+## Example of usage
+The usage of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file [heater.xlsx](heater.xlsx).
 
 ## Documentation
 * [User Guide](PSIC-user-guide.pdf)
