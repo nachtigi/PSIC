@@ -11,5 +11,8 @@ This tool has been published in the article:<br />Nachtigalova I, Finkeova J, Kr
 ## Example
 The use of PSIC is illustrated in the simulation and control of an electrically heated water heater in the file Heater.xlsx.
 
+## Activation
+The PSIC add-in requires MS Excel 2007+ for Win, and enabled macros. MS Excel for Mac is not supported.
+
 ## License
 PSIC is being developed at the [Deparment of Computing and Control Engineering](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en). This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
