@@ -21,4 +21,4 @@ The usage of PSIC is illustrated in the simulation and control of an electricall
 PSIC is being developed at the [Deparment of Computing and Control Engineering](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en). See [AUTHORS](AUTHORS)
 
 ## License
-This work is licensed under a [Mozilla Public License 2.0](LICENSE).
+This software is licensed under a [Mozilla Public License 2.0](LICENSE).
