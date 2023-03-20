@@ -18,7 +18,7 @@ The usage of PSIC is illustrated in the simulation and control of an electricall
 * Nachtigalova I, Finkeova J, Krbcova Z, Souskova H. **A spreadsheet‐based tool for education of chemical process simulation and control fundamentals**. *Comput Appl Eng Educ*. 2020; 1–15. https://doi.org/10.1002/cae.22271
 
 ## Authors
-PSIC is being developed at the [Deparment of Computing and Control Engineering](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en). See [AUTHORS](AUTHORS)
+PSIC is being developed at the [Deparment of Mathematics, Informatics and Cybernetics](http://uprt.vscht.cz/en), [University of Chemistry and Technology Prague](https://www.vscht.cz/?jazyk=en). See [AUTHORS](AUTHORS)
 
 ## License
 This software is licensed under a [Mozilla Public License 2.0](LICENSE).
